@@ -1,0 +1,19 @@
+{
+  "name": "server01",
+  "version": "1.0.0",
+  "description": "This is a Node Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhaskar2909/node-server01.git"
+  },
+  "author": "Bhaskar Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhaskar2909/node-server01/issues"
+  },
+  "homepage": "https://github.com/Bhaskar2909/node-server01#readme"
+}
